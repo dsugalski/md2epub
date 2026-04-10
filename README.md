@@ -18,7 +18,7 @@ specifies whatever was current when I made this thing.
 
 ## usage
 
-`md2epub --input=myfile.md --output=mybook.epub --author=me --title="My thing"`
+`md2epub --output=mybook.epub --author=me --title="My thing" <list of .md files>`
 
 Usage subject to change, this is kind of awkward.
 
